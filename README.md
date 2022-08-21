@@ -15,18 +15,18 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: You can take your money even after you die, just you will have to change the currency...
 
-<br/>
 
-<a href="https://www.linkedin.com/in/gourab-das23/" target="_blank">
-   <img src="https://img.shields.io/badge/Linkedin-Gourab Das-green?style=for-the-badge&logo?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/gopoo23" target="_blank"><img src="https://img.shields.io/badge/Github-Gourab Das-green?style=for-the-badge&logo=github"></a>
-<a href="mailto:gouravdasrrr123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-gourav das-teal?style=for-the-badge&logo=gmail"></a>
+<h3 align =>Contacts</h3>
+<a href="https://github.com/gopoo23" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/gourab-das23/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a target="_blank" href="mailto:gouravdasrrr123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 <br/>
+<h1 align ="center">Skills Set</h1>
+<br/> 
+<h3 align =>Languages</h3>
+<br/>
+https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 
-**Languages and Tools:**  
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -62,6 +62,7 @@
 
 <div align="center">
   
+
  
 
   
@@ -70,5 +71,9 @@
 <br>
   
 ### Show some ❤️ by starring some of the repositories!
+
+
+<a href="https://github.com/gopoo23" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/gourab-das23/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a target="_blank" href="mailto:gouravdasrrr123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+
 
 </div>
