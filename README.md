@@ -17,6 +17,10 @@
 <h3 align =>Contacts</h3>
 <a href="https://github.com/gopoo23" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/gourab-das23/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a target="_blank" href="mailto:gouravdasrrr123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
+<h3 align =>Coding Profile</h3>
+
+<a href="https://www.hackerrank.com/gouravdasrrr123" target="_blank"><code><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a> <a href="https://leetcode.com/gourabdas/" target="_blank"><code><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+
 <h1 align ="center">Skills Set</h1>
 <h3 align =>Languages</h3>
 <code><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
@@ -65,9 +69,7 @@
 <code><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></code>
 
-<h3 align =>Coding Profile</h3>
 
-<a href="https://www.hackerrank.com/gouravdasrrr123" target="_blank"><code><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a> <a href="https://leetcode.com/gourabdas/" target="_blank"><code><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 
 <br/>
 
