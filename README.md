@@ -19,9 +19,7 @@
 
 <h3 align =>Coding Profile</h3>
 
-<a href="https://www.hackerrank.com/gouravdasrrr123" target="_blank"><code><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a> <a href="https://leetcode.com/gourabdas/" target="_blank"><code><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> 
-
-<a href="https://www.codechef.com/users/gourabdas29" target="_blank"><code><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a><a href="https://codeforces.com/profile/gourabdas" target="_blank"><code><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/gouravdasrrr123" target="_blank"><code><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a> <a href="https://leetcode.com/gourabdas/" target="_blank"><code><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://www.codechef.com/users/gourabdas29" target="_blank"><code><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a><a href="https://codeforces.com/profile/gourabdas" target="_blank"><code><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gouravdasrrr123" target="_blank"><code><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 <a href="https://www.codingninjas.com/codestudio/profile/Gourab_Das" target="_blank"><code><img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" /></a>
 
