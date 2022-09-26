@@ -3,7 +3,6 @@
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-
 <br/>
 
 - 🔭 I’m currently working on my Problem Solving Skills
