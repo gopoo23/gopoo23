@@ -3,10 +3,7 @@
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-
 <br/>
-
-
 
 - 🔭 I’m currently working on my Problem Solving Skills
 - 🌱 I’m currently learning more about Nodejs, ExpressJs, MongoDB
