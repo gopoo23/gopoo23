@@ -1,84 +1,249 @@
-<h1 align = "center">Hello, I'm Gourab Das 👋</h1>
-
-
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-<br/>
-
-- 🔭 I’m currently working on my Problem Solving Skills
-- 🌱 I’m currently learning more about Nodejs, ExpressJs, MongoDB
-- 🤔 I’m looking for help with Android Development.
-- 💬 Ask me about C++ or Data Structures Algorithms or Competitive Programming related stuff.
-- 📫 How to reach me: [LinkedIn - Gourab Das](https://www.linkedin.com/in/gourab-das23/)<!--  -->
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: You can take your money even after you die, just you will have to change the currency...
-
-<h3 align =>Contacts</h3>
-<a href="https://github.com/gopoo23" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/gourab-das23/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a target="_blank" href="mailto:gouravdasrrr123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-
-<h3 align =>Coding Profile</h3>
-
-<a href="https://www.hackerrank.com/gouravdasrrr123" target="_blank"><code><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a> <a href="https://leetcode.com/gourabdas/" target="_blank"><code><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://www.codechef.com/users/gourabdas29" target="_blank"><code><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a><a href="https://codeforces.com/profile/gourabdas" target="_blank"><code><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gouravdasrrr123" target="_blank"><code><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a href="https://www.codingninjas.com/codestudio/profile/Gourab_Das" target="_blank"><code><img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" /></a>
-
-<h1 align ="center">Skills Set</h1>
-<h3 align =>Languages</h3>
-<code><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
-
-<h3 align =>Cloud</h3>
-<code><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></code>
-
-
-<h3 align =>Database</h3>
-<code><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code>
-
-<h3 align =>Frameworks</h3>
-<code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
-
-<h3 align =>Design</h3>
-<code><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></code>
-<code><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></code>
-
-<h3 align =>IDE</h3>
-<code><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"></code>
-<code><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
-<code><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
-
-<h3 align =>Office</h3>
-<code><img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"></code>
-
-<h3 align =>Sound</h3>
-<code><img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white"></code>
-
-
-
-<br/>
-
-
-
-<div align="center">
-  
-
-  
-<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='300"'>
-<br>
-<br>
-  
-<h1 align = "center"> Show some ❤️ by starring some of the repositories!</h1>
-
-
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=gopoo23&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
+
+<h1 align="center">Hey 👋, I'm Gourab Das</h1>
+
+<h3 align="center">
+  Software Engineer • Full-Stack Developer • Problem Solver
+</h3>
+
+<p align="center">
+  <a href="https://github.com/gopoo23">
+    <img src="https://img.shields.io/github/followers/gopoo23?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/gopoo23?tab=repositories">
+    <img src="https://img.shields.io/github/stars/gopoo23?label=Stars&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/gourab-das23/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Software Engineer with 4.5+ years of professional experience**, passionate about building scalable, reliable, and user-focused web applications.
+
+Currently, I'm working at **VE3**, where I've been building and contributing to production-grade software for the last **3+ years**.
+
+```text
+💼 Experience      4.5+ Years
+🏢 Current Role    Software Engineer @ VE3
+🚀 Focus           Full-Stack Development
+⚛️ Frontend        React.js • Next.js
+🟢 Backend         Node.js • Express.js
+🗄️ Databases       PostgreSQL • MongoDB • Redis
+🐳 DevOps          Docker • WSL
+🔍 Code Quality    SonarQube
+🤖 Exploring       AI & Modern Developer Tools
+```
+
+I enjoy turning complex problems into **simple, maintainable and scalable solutions** — from designing APIs and backend systems to building polished frontend experiences.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,java,html,css" />
+</p>
+
+### ⚛️ Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" />
+</p>
+
+### 🟢 Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+
+### 🗄️ Databases & Caching
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" />
+</p>
+
+### ☁️ DevOps & Engineering Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,gitlab,nginx" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+</p>
+
+### 🤖 AI & Modern Development
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20Assisted%20Development-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20Tools-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+---
+
+## 🚀 What I Work With
+
+```javascript
+const gourab = {
+  role: "Software Engineer",
+
+  experience: "4.5+ years",
+
+  currentCompany: "VE3",
+
+  primaryStack: [
+    "React",
+    "Next.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "PostgreSQL",
+    "Redis"
+  ],
+
+  engineering: [
+    "REST APIs",
+    "Scalable Web Applications",
+    "Backend Architecture",
+    "Database Design",
+    "Caching",
+    "Code Quality",
+    "Dockerized Applications",
+    "Performance Optimization"
+  ],
+
+  currentlyExploring: [
+    "AI",
+    "LLM-powered Applications",
+    "System Design",
+    "Cloud & DevOps"
+  ],
+
+  mindset: "Build → Learn → Improve → Repeat 🚀"
+};
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gopoo23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopoo23&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gopoo23&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 🏆 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/gourabdas/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://codeforces.com/profile/gourabdas">
+<img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+<a href="https://www.codechef.com/users/gourabdas29">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+<a href="https://www.hackerrank.com/gouravdasrrr123">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/gouravdasrrr123">
+<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 💼 Professional Journey
+
+```text
+Software Engineer
+       │
+       ├── 4.5+ Years of Professional Experience
+       │
+       ├── 3+ Years @ VE3
+       │
+       ├── Full-Stack Web Development
+       │
+       ├── Frontend Architecture
+       │
+       ├── Backend & API Development
+       │
+       ├── Database & Caching
+       │
+       └── DevOps & Code Quality
+```
+
+---
+
+## 🎯 Currently Exploring
+
+* 🤖 AI-powered applications
+* 🧠 LLM & AI developer tools
+* 🏗️ System Design & scalable architectures
+* ⚡ Web performance & optimization
+* ☁️ Cloud & DevOps
+* 🔐 Secure and maintainable backend systems
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/gourab-das23/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/gopoo23">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:gouravdasrrr123@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+  💡 "Code is not just about making things work — it's about making them work well."
+</h3>
+
+<p align="center">
+  Thanks for visiting! ⭐
+</p>
+
+<p align="center">
+  <i>Feel free to explore my repositories and connect with me.</i>
+</p>
